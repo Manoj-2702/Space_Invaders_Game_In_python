@@ -1,4 +1,4 @@
-# Space Invaders
+# 💻 Space Invaders
 
 - This project was developed by me as a part of my first year python projects.
 - This uses basic python functions and callbacks.
